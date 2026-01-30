@@ -9,3 +9,6 @@ training AI model to detect shrimps
 <img width="2936" height="1440" alt="image" src="https://github.com/user-attachments/assets/22414477-b8b5-4a59-bd48-5cb979e095d1" />
 <img width="2540" height="1006" alt="image" src="https://github.com/user-attachments/assets/bc9f4dff-a83a-48ab-ac4a-7537e36ad0e6" />
 <img width="2880" height="1242" alt="image" src="https://github.com/user-attachments/assets/4984599c-63ee-43e7-ae4c-b1236bfdeb45" />
+30/01/2026
+designing circuit on Tinkercad
+<img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
