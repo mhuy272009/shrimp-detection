@@ -21,20 +21,39 @@ Simulating the fire alarm system
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148" />
 Feb 7, 2026
 Refining AI model dectting infected shrimps with team
-<img width="1057" height="1096" alt="precision(B)" src="https://github.com/user-attachments/assets/8dbc6db9-2bb6-4e64-b46e-d95d91d4e634" />
-<img width="1057" height="1096" alt="recall(B)" src="https://github.com/user-attachments/assets/b7f8a5e8-f572-4e62-adc0-129673cd2407" />
-<img width="1057" height="1096" alt="mAP50-95(B)" src="https://github.com/user-attachments/assets/fe7d7fca-dd78-4eab-98dd-45f0f8b49361" />
-<img width="1057" height="1096" alt="precision(M)" src="https://github.com/user-attachments/assets/efbd34d9-d3d3-4369-9a07-ce8eb929c722" />
-<img width="1057" height="1096" alt="recall(M)" src="https://github.com/user-attachments/assets/70a43c85-a508-4f01-94fb-c427fff1b731" />
-<img width="1057" height="1096" alt="mAP50-95(M)" src="https://github.com/user-attachments/assets/b1963ec0-c133-4749-b289-f832b195b7e1" />
-<img width="1057" height="1096" alt="box_loss" src="https://github.com/user-attachments/assets/f8890255-44b3-4f72-9f3c-1dc4c99115f3" />
-<img width="1057" height="1096" alt="seg_loss" src="https://github.com/user-attachments/assets/29e7858d-fe0b-474f-bd22-f13ff0c7068a" />
-<img width="1057" height="1096" alt="cls_loss" src="https://github.com/user-attachments/assets/12704f71-88a5-4e8d-9d8b-8dd71996a490" />
-<img width="1057" height="1096" alt="dfl_loss" src="https://github.com/user-attachments/assets/dc91a7d5-f0dc-4215-8e02-c9275f2ab4e2" />
-<img width="1057" height="1096" alt="sem_loss" src="https://github.com/user-attachments/assets/c788c627-79d4-4f6a-8e32-1fd9906aa656" />
-<img width="1057" height="1096" alt="box_loss (1)" src="https://github.com/user-attachments/assets/4a25b90c-68c6-4d70-b659-2f8287a21705" />
-<img width="1057" height="1096" alt="seg_loss (1)" src="https://github.com/user-attachments/assets/e6e224c4-b697-4095-8fea-f22fc53caf5c" />
-<img width="1057" height="1096" alt="cls_loss (1)" src="https://github.com/user-attachments/assets/0fc6be85-5da9-412b-a207-88a5e11ebf97" />
-<img width="1057" height="1096" alt="dfl_loss (1)" src="https://github.com/user-attachments/assets/7698e694-5d33-4c40-9bb6-3d5ff40ad74a" />
-<img width="1057" height="1096" alt="sem_loss (1)" src="https://github.com/user-attachments/assets/d122b8c8-49cf-4e61-921e-e35ddb8ca56a" />
-<img width="1057" height="1096" alt="lr" src="https://github.com/user-attachments/assets/70d784c6-b0b6-4b82-8e82-63e3df1ef458" />
+
+Metrics
+<img width="1430" height="1096" alt="precision(B)" src="https://github.com/user-attachments/assets/99491d2a-607b-4d1b-aaea-3d2dbf034c09" />
+<img width="1430" height="1096" alt="recall(B)" src="https://github.com/user-attachments/assets/4aebcbf8-feb7-4903-a567-512d31570ba3" />
+<img width="1430" height="1096" alt="mAP50(B)" src="https://github.com/user-attachments/assets/9ccf01ff-3529-45bc-bf50-6be953587e2e" />
+<img width="1430" height="1096" alt="mAP50-95(B)" src="https://github.com/user-attachments/assets/25b7cebf-f47a-4d82-bd16-d238d8d85bd8" />
+<img width="1430" height="1096" alt="precision(M)" src="https://github.com/user-attachments/assets/09f94177-c088-4600-a7aa-95b5d8867518" />
+<img width="1430" height="1096" alt="recall(M)" src="https://github.com/user-attachments/assets/ac344930-9cb6-4257-8161-c017250de5d3" />
+<img width="1430" height="1096" alt="mAP50(M)" src="https://github.com/user-attachments/assets/8e9b1072-ee8b-44d3-aaed-ec3d385f4579" />
+<img width="1430" height="1096" alt="mAP50-95(M)" src="https://github.com/user-attachments/assets/eddf9b1c-27a7-44b3-82a7-3b0cd52f696a" />
+
+Training Loss
+<img width="1430" height="1096" alt="box_loss" src="https://github.com/user-attachments/assets/ea3dcb7c-5414-4535-8cf5-8ff70f6703e9" />
+<img width="1430" height="1096" alt="seg_loss" src="https://github.com/user-attachments/assets/102c57dc-f8e1-41cb-baa8-6ce23fde27b0" />
+<img width="1430" height="1096" alt="cls_loss" src="https://github.com/user-attachments/assets/01d4dea6-c7bf-4e76-9361-b79b6509d9e8" />
+<img width="1430" height="1096" alt="dfl_loss" src="https://github.com/user-attachments/assets/c97b49e1-96f5-46a5-a364-d5665eb3bbc5" />
+<img width="1430" height="1096" alt="sem_loss" src="https://github.com/user-attachments/assets/3c7c38b3-2ad8-40a6-8011-9e3607e2dcc3" />
+
+Validation Loss
+<img width="1430" height="1096" alt="box_loss (1)" src="https://github.com/user-attachments/assets/b4ac4524-059e-48c2-8ee2-6f32b97f4b95" />
+<img width="1430" height="1096" alt="seg_loss (1)" src="https://github.com/user-attachments/assets/799b928b-121d-46cf-801f-53930a5fcb4e" />
+<img width="1430" height="1096" alt="cls_loss (1)" src="https://github.com/user-attachments/assets/01f53a4e-9ed6-44fd-939e-10d77d90d17e" />
+<img width="1430" height="1096" alt="dfl_loss (1)" src="https://github.com/user-attachments/assets/8e403cb1-7a36-40c6-b33b-72fc9e2af32b" />
+<img width="1430" height="1096" alt="sem_loss (1)" src="https://github.com/user-attachments/assets/afa1268b-55f2-41cb-b88c-35c8aeb256c0" />
+
+Other
+<img width="1430" height="1096" alt="lr" src="https://github.com/user-attachments/assets/1ccf6168-5b90-498d-9563-04d035608579" />
+
+Validation Plots - Confusion Matrix
+<img width="1426" height="1498" alt="image" src="https://github.com/user-attachments/assets/14ead750-2a16-4f1d-85e7-5ff062c7df12" />
+
+Validation Curves
+<img width="1430" height="1096" alt="Precision-Recall Curve" src="https://github.com/user-attachments/assets/8fb91640-4c8a-4806-9084-85db393f251b" />
+<img width="1430" height="1096" alt="F1-Confidence Curve" src="https://github.com/user-attachments/assets/cfe328de-1441-4fc6-96a4-195dee37b87f" />
+<img width="1430" height="1096" alt="Precision-Confidence Curve" src="https://github.com/user-attachments/assets/d8fe5a8e-7ee8-4700-97c9-a7f13f5b6688" />
+<img width="1430" height="1096" alt="Recall-Confidence Curve" src="https://github.com/user-attachments/assets/a765db7e-3986-47f1-bda2-f16edb3d72fd" />
