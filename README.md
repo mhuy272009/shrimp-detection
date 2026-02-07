@@ -13,13 +13,19 @@ Training AI model to detect shrimps
 
 Jan 30, 2026
 
-Designing circuit on Tinkercad
+Designing Circuit on Tinkercad
 
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
 
+Jan 30, 2026
+
+Circuit Installation and Cabling
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/f906f17f-53a6-4432-bf70-9372dfb0051d" />
+
 Feb 7, 2026
 
-Simulating the fire alarm system
+Simulating the fire alarm system on Wokwi
 
 <img width="3024" height="1552" alt="image" src="https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499" />
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be" />
