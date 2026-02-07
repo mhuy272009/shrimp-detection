@@ -1,6 +1,7 @@
 Jan 19, 2026
 
 Training AI model to detect shrimps
+
 <img width="2944" height="1434" alt="image" src="https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7" />
 <img width="2954" height="1466" alt="image" src="https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7" />
 <img width="2956" height="1438" alt="image" src="https://github.com/user-attachments/assets/aea555d1-2af6-47dd-ba9f-fd8531c7e5e3" />
@@ -13,11 +14,13 @@ Training AI model to detect shrimps
 Jan 30, 2026
 
 Designing circuit on Tinkercad
+
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
 
 Feb 7, 2026
 
 Simulating the fire alarm system
+
 <img width="3024" height="1552" alt="image" src="https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499" />
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be" />
 <img width="3024" height="1564" alt="image" src="https://github.com/user-attachments/assets/a28ed059-8683-41a5-8529-d769e386d3a3" />
@@ -30,6 +33,7 @@ Feb 7, 2026
 Refining AI model dectting infected shrimps with team
 
 Metrics
+
 <img width="1430" height="1096" alt="precision(B)" src="https://github.com/user-attachments/assets/99491d2a-607b-4d1b-aaea-3d2dbf034c09" />
 <img width="1430" height="1096" alt="recall(B)" src="https://github.com/user-attachments/assets/4aebcbf8-feb7-4903-a567-512d31570ba3" />
 <img width="1430" height="1096" alt="mAP50(B)" src="https://github.com/user-attachments/assets/9ccf01ff-3529-45bc-bf50-6be953587e2e" />
@@ -40,6 +44,7 @@ Metrics
 <img width="1430" height="1096" alt="mAP50-95(M)" src="https://github.com/user-attachments/assets/eddf9b1c-27a7-44b3-82a7-3b0cd52f696a" />
 
 Training Loss
+
 <img width="1430" height="1096" alt="box_loss" src="https://github.com/user-attachments/assets/ea3dcb7c-5414-4535-8cf5-8ff70f6703e9" />
 <img width="1430" height="1096" alt="seg_loss" src="https://github.com/user-attachments/assets/102c57dc-f8e1-41cb-baa8-6ce23fde27b0" />
 <img width="1430" height="1096" alt="cls_loss" src="https://github.com/user-attachments/assets/01d4dea6-c7bf-4e76-9361-b79b6509d9e8" />
@@ -47,6 +52,7 @@ Training Loss
 <img width="1430" height="1096" alt="sem_loss" src="https://github.com/user-attachments/assets/3c7c38b3-2ad8-40a6-8011-9e3607e2dcc3" />
 
 Validation Loss
+
 <img width="1430" height="1096" alt="box_loss (1)" src="https://github.com/user-attachments/assets/b4ac4524-059e-48c2-8ee2-6f32b97f4b95" />
 <img width="1430" height="1096" alt="seg_loss (1)" src="https://github.com/user-attachments/assets/799b928b-121d-46cf-801f-53930a5fcb4e" />
 <img width="1430" height="1096" alt="cls_loss (1)" src="https://github.com/user-attachments/assets/01f53a4e-9ed6-44fd-939e-10d77d90d17e" />
@@ -54,9 +60,11 @@ Validation Loss
 <img width="1430" height="1096" alt="sem_loss (1)" src="https://github.com/user-attachments/assets/afa1268b-55f2-41cb-b88c-35c8aeb256c0" />
 
 Other
+
 <img width="1430" height="1096" alt="lr" src="https://github.com/user-attachments/assets/1ccf6168-5b90-498d-9563-04d035608579" />
 
 Validation Plots - Confusion Matrix
+
 <img width="1426" height="1498" alt="image" src="https://github.com/user-attachments/assets/14ead750-2a16-4f1d-85e7-5ff062c7df12" />
 
 Validation Curves
