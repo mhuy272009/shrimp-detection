@@ -1,230 +1,123 @@
 #include <Wire.h>
-
 #include <Adafruit_SSD1306.h>
-
 #include <Adafruit_GFX.h>
-
 #include <DHT.h>
 
-
-
 #define DenCanhBaoNhiet 2 // LED Đỏ báo nhiệt độ
-
 #define DenCanhBaoAm 4 // LED Vàng báo độ ẩm
-
 #define CamBienNhietDo 25
 
-
-
 #define SCREEN_WIDTH 128
-
 #define SCREEN_HEIGHT 64
-
 #define SCREEN_ADDRESS 0x3C
-
 #define OLED_RESET -1
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-
-
 #define DHTTYPE DHT22
-
 DHT dht(CamBienNhietDo, DHTTYPE);
 
-
-
 void setup() {
-
 Serial.begin(115200);
 
-
 pinMode(DenCanhBaoNhiet, OUTPUT);
-
 pinMode(DenCanhBaoAm, OUTPUT);
-
 
 dht.begin();
 
-
-
 if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
-
 Serial.println(F("SSD1306 allocation failed"));
-
 for (;;);
-
 }
-
-
 
 display.clearDisplay();
-
 display.setTextColor(SSD1306_WHITE);
-
 display.setTextSize(1);
-
 display.setCursor(10, 20);
-
 display.println("FIRE ALARM SYSTEM");
-
 display.setCursor(30, 40);
-
 display.println("STARTING...");
-
 display.display();
-
 delay(2000);
-
 }
-
-
 
 void loop() {
-
 // 1. Đọc dữ liệu cảm biến
-
 float h = dht.readHumidity();
-
 float t = dht.readTemperature(); // Đọc độ C
-
 float f = dht.readTemperature(true); // Đọc độ F
 
-
-
 if (isnan(h) || isnan(t) || isnan(f)) {
-
 Serial.println(F("DHT SENSOR ERROR!"));
-
 display.clearDisplay();
-
 display.setCursor(0,0);
-
 display.print("SENSOR ERROR!");
-
 display.display();
-
 return;
-
 }
-
-
 
 // Nhiệt độ ngoài khoảng 20-40 -> Bật đèn Đỏ
-
 bool CanhBaoNhiet = (t < 20 || t > 40);
-
 digitalWrite(DenCanhBaoNhiet, CanhBaoNhiet ? HIGH : LOW);
 
-
-
 // Độ ẩm ngoài khoảng 50-80 -> Bật đèn Vàng
-
 bool CanhBaoAm = (h < 50 || h > 80);
-
 digitalWrite(DenCanhBaoAm, CanhBaoAm ? HIGH : LOW);
 
-
-
 // OLED
-
 display.clearDisplay();
 
-
 // Nếu CÓ bất kỳ cảnh báo nào
-
 if (CanhBaoNhiet || CanhBaoAm) {
-
 display.setTextSize(2);
-
 display.setCursor(15, 0);
-
 display.println(F("ALERT!"));
 
-
 display.setTextSize(1);
-
 display.setCursor(0, 25);
 
-
 if (CanhBaoNhiet) {
-
 if(t > 40) display.println(F("HIGH TEMPERATURE"));
-
 else display.println(F("LOW TEMPERATURE"));
-
 }
-
 
 if (CanhBaoAm) {
-
 if(h > 80) display.println(F("HIGH HUMIDITY"));
-
 else display.println(F("LOW HUMIDITY"));
-
 }
-
 
 
 display.setCursor(0, 50);
-
 display.print("Temp: "); display.print(t, 1);
-
 display.print(" Humi: "); display.print(h, 0);
-
-
-
 }
 
 // Nếu KHÔNG có cảnh báo (Bình thường)
-
 else {
-
 display.setTextSize(1);
-
 display.setCursor(0, 0);
-
 display.println(F("SAFE"));
 
-
 display.setTextSize(1);
-
 display.setCursor(0, 20);
-
 display.print(F("TEMPERATURE (C): "));
-
 display.println(t,1);
 
 
-
 display.setCursor(0, 35);
-
 display.print(F("TEMPERATURE (F): "));
-
 display.println(f,1);
 
-
 display.setCursor(0, 50);
-
 display.print(F("HUMIDITY (%): "));
-
 display.println(h,1);
-
 }
-
-
 
 display.display(); // Cập nhật màn hình
 
-
-
 // In ra Serial để kiểm tra (Debug)
-
 Serial.print(F("Temp: ")); Serial.print(t);
-
 Serial.print(F("C | Humid: ")); Serial.print(h);
-
 Serial.print(F("% | Red: ")); Serial.print(CanhBaoNhiet);
-
 Serial.print(F(" | Yellow: ")); Serial.println(CanhBaoAm);
 }
