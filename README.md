@@ -14,5 +14,6 @@ designing circuit on Tinkercad
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
 Feb 7, 2026
 Simulating the lights of a fire alarm system
+<img width="3018" height="1552" alt="image" src="https://github.com/user-attachments/assets/225444f2-ee66-4243-967f-d06defa239e9" />
 https://github.com/user-attachments/assets/1f37e25a-e6a2-4e70-a4c8-1831cdb89d91
 
