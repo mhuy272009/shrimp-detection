@@ -1,4 +1,5 @@
 Jan 19, 2026
+
 Training AI model to detect shrimps
 <img width="2944" height="1434" alt="image" src="https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7" />
 <img width="2954" height="1466" alt="image" src="https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7" />
@@ -8,10 +9,14 @@ Training AI model to detect shrimps
 <img width="2936" height="1440" alt="image" src="https://github.com/user-attachments/assets/22414477-b8b5-4a59-bd48-5cb979e095d1" />
 <img width="2540" height="1006" alt="image" src="https://github.com/user-attachments/assets/bc9f4dff-a83a-48ab-ac4a-7537e36ad0e6" />
 <img width="2880" height="1242" alt="image" src="https://github.com/user-attachments/assets/4984599c-63ee-43e7-ae4c-b1236bfdeb45" />
+
 Jan 30, 2026
+
 Designing circuit on Tinkercad
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
+
 Feb 7, 2026
+
 Simulating the fire alarm system
 <img width="3024" height="1552" alt="image" src="https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499" />
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be" />
@@ -19,7 +24,9 @@ Simulating the fire alarm system
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/1f72980e-750b-42a0-be5f-36d8aa984b7d" />
 <img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/ee1cb15d-a955-4406-813f-21732b9c1a7e" />
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148" />
+
 Feb 7, 2026
+
 Refining AI model dectting infected shrimps with team
 
 Metrics
