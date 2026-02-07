@@ -15,6 +15,10 @@ designing circuit on Tinkercad
 Feb 7, 2026
 Simulating the fire alarm system
 <img width="3024" height="1552" alt="image" src="https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499" />
+<img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be" />
+<img width="3024" height="1564" alt="image" src="https://github.com/user-attachments/assets/a28ed059-8683-41a5-8529-d769e386d3a3" />
+<img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/1f72980e-750b-42a0-be5f-36d8aa984b7d" />
+<img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/ee1cb15d-a955-4406-813f-21732b9c1a7e" />
 
 
 
