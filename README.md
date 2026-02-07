@@ -21,7 +21,6 @@ Simulating the fire alarm system
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148" />
 Feb 7, 2026
 Refining AI model dectting infected shrimps with team
-
 <img width="1057" height="1096" alt="precision(B)" src="https://github.com/user-attachments/assets/8dbc6db9-2bb6-4e64-b46e-d95d91d4e634" />
 <img width="1057" height="1096" alt="recall(B)" src="https://github.com/user-attachments/assets/b7f8a5e8-f572-4e62-adc0-129673cd2407" />
 <img width="1057" height="1096" alt="mAP50-95(B)" src="https://github.com/user-attachments/assets/fe7d7fca-dd78-4eab-98dd-45f0f8b49361" />
