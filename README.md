@@ -1,5 +1,5 @@
 # shrimp-detection
-19/01/2026
+Jan 19, 2026
 training AI model to detect shrimps
 <img width="2944" height="1434" alt="image" src="https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7" />
 <img width="2954" height="1466" alt="image" src="https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7" />
@@ -9,6 +9,10 @@ training AI model to detect shrimps
 <img width="2936" height="1440" alt="image" src="https://github.com/user-attachments/assets/22414477-b8b5-4a59-bd48-5cb979e095d1" />
 <img width="2540" height="1006" alt="image" src="https://github.com/user-attachments/assets/bc9f4dff-a83a-48ab-ac4a-7537e36ad0e6" />
 <img width="2880" height="1242" alt="image" src="https://github.com/user-attachments/assets/4984599c-63ee-43e7-ae4c-b1236bfdeb45" />
-30/01/2026
+Jan 30, 2026
 designing circuit on Tinkercad
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
+Feb 7, 2026
+Simulating the lights of a fire alarm system
+https://github.com/user-attachments/assets/1f37e25a-e6a2-4e70-a4c8-1831cdb89d91
+
