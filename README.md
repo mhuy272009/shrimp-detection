@@ -33,6 +33,12 @@ Simulating the fire alarm system on Wokwi
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/1f72980e-750b-42a0-be5f-36d8aa984b7d" />
 <img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/ee1cb15d-a955-4406-813f-21732b9c1a7e" />
 <img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148" />
+[diagram.json](https://github.com/user-attachments/files/25176634/diagram.json)[libraries.txt](https://github.com/user-attachments/files/25176635/libraries.txt)
+[wokwi-project.txt](https://github.com/user-attachments/files/25176638/wokwi-project.txt)Downloaded from https://wokwi.com/projects/455315737908197377
+
+Simulate this project on https://wokwi.com
+
+
 
 Feb 7, 2026
 
