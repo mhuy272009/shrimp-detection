@@ -36,7 +36,7 @@ Simulating the fire alarm system on Wokwi
 
 Feb 7, 2026
 
-Refining AI model dectting infected shrimps with team
+Refining AI model detecting infected shrimps with team, using RTX Pro 6000 model
 
 Metrics
 
