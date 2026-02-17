@@ -78,3 +78,10 @@ Validation Curves
 <img width="1430" height="1096" alt="F1-Confidence Curve" src="https://github.com/user-attachments/assets/cfe328de-1441-4fc6-96a4-195dee37b87f" />
 <img width="1430" height="1096" alt="Precision-Confidence Curve" src="https://github.com/user-attachments/assets/d8fe5a8e-7ee8-4700-97c9-a7f13f5b6688" />
 <img width="1430" height="1096" alt="Recall-Confidence Curve" src="https://github.com/user-attachments/assets/a765db7e-3986-47f1-bda2-f16edb3d72fd" />
+
+Feb 11, 2026
+
+Finalise Group Poster and Presentation
+
+[IWISE 2026.pdf](https://github.com/user-attachments/files/25356755/IWISE.2026.pdf)
+
