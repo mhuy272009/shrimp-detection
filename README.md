@@ -83,5 +83,5 @@ Feb 11, 2026
 
 Finalise Group Poster and Presentation
 
-[IWISE 2026.pdf](https://github.com/user-attachments/files/25356755/IWISE.2026.pdf)
+<img width="4767" height="6740" alt="IWISE 2026" src="https://github.com/user-attachments/assets/373f8501-45e1-4122-b699-ee4b42d20ed8" />
 
