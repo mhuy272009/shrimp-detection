@@ -2,6 +2,8 @@ Jan 19, 2026
 
 Training AI model to detect shrimps
 
+<img width="913" height="594" alt="image" src="https://github.com/user-attachments/assets/48533f62-bbbd-4da4-a4b2-aab479ca8fb2" />
+<img width="1195" height="614" alt="image" src="https://github.com/user-attachments/assets/84a61ad0-3fd2-4707-99c2-852fc6703598" />
 <img width="2944" height="1434" alt="image" src="https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7" />
 <img width="2954" height="1466" alt="image" src="https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7" />
 <img width="2956" height="1438" alt="image" src="https://github.com/user-attachments/assets/aea555d1-2af6-47dd-ba9f-fd8531c7e5e3" />
