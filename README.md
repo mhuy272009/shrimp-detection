@@ -107,4 +107,4 @@ Model
 ](https://platform.ultralytics.com/system4-bkstar/datasets/shrimp)
 
 
-<iframe src="https://embed.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi" width="480" height="320" frameborder="0" style="border-radius:12px"></iframe>
+[<iframe src="https://embed.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi" width="480" height="320" frameborder="0" style="border-radius:12px"></iframe>](https://embed.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi)
