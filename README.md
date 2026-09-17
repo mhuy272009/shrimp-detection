@@ -15,6 +15,7 @@ Jan 30, 2026
 
 Designing Circuit on Tinkercad
 
+<img width="1258" height="782" alt="image" src="https://github.com/user-attachments/assets/07102d5a-a165-47be-818b-a63711d17a16" />
 <img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
 
 Jan 30, 2026
