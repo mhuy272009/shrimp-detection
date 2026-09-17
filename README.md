@@ -95,11 +95,13 @@ Output
 <img width="1526" height="846" alt="image" src="https://github.com/user-attachments/assets/273ce59b-a477-4713-aadc-ed6a4bd84c6a" />
 <img width="1512" height="848" alt="image" src="https://github.com/user-attachments/assets/b8979a35-3deb-4b0b-9108-a10a45aa7cc6" />
 
-
-
 Feb 11, 2026
 
 Finalise Group Poster and Presentation
 
 <img width="4767" height="6740" alt="IWISE 2026" src="https://github.com/user-attachments/assets/373f8501-45e1-4122-b699-ee4b42d20ed8" />
 
+Model
+
+<iframe src="https://platform.ultralytics.com/embed/system4-bkstar/datasets/shrimp" width="480" height="320" frameborder="0" style="border-radius:12px"></iframe>
+https://universe.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi
