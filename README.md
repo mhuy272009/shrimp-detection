@@ -23,6 +23,14 @@ Circuit Installation and Cabling
 
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/f906f17f-53a6-4432-bf70-9372dfb0051d" />
 
+Feb 6, 2026
+
+Finalise Circuit and Hardware
+
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/2273838e-f2cd-40de-96c4-41330439e8dd" />
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/ce91c40f-924a-4f9f-b81d-e928b5486042" />
+
+
 Feb 7, 2026
 
 Simulating the fire alarm system on Wokwi
