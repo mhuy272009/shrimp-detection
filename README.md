@@ -90,6 +90,13 @@ Validation Curves
 <img width="1430" height="1096" alt="Precision-Confidence Curve" src="https://github.com/user-attachments/assets/d8fe5a8e-7ee8-4700-97c9-a7f13f5b6688" />
 <img width="1430" height="1096" alt="Recall-Confidence Curve" src="https://github.com/user-attachments/assets/a765db7e-3986-47f1-bda2-f16edb3d72fd" />
 
+Output
+
+<img width="1526" height="846" alt="image" src="https://github.com/user-attachments/assets/273ce59b-a477-4713-aadc-ed6a4bd84c6a" />
+<img width="1512" height="848" alt="image" src="https://github.com/user-attachments/assets/b8979a35-3deb-4b0b-9108-a10a45aa7cc6" />
+
+
+
 Feb 11, 2026
 
 Finalise Group Poster and Presentation
