@@ -1,110 +1,123 @@
-Jan 19, 2026
+# 🦐 Shrimp Detection & Smart Water Quality Alarm System
 
-Training AI model to detect shrimps
+[![Status](https://img.shields.io/badge/Status-Completed-success)]()
+[![Conference](https://img.shields.io/badge/Conference-IWISE%202026-blue)]()
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Python%20|%20YOLO%20|%20Arduino%20|%20IoT-orange)]()
 
-<img width="913" height="594" alt="image" src="https://github.com/user-attachments/assets/48533f62-bbbd-4da4-a4b2-aab479ca8fb2" />
-<img width="1195" height="614" alt="image" src="https://github.com/user-attachments/assets/84a61ad0-3fd2-4707-99c2-852fc6703598" />
-<img width="2944" height="1434" alt="image" src="https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7" />
-<img width="2954" height="1466" alt="image" src="https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7" />
-<img width="2956" height="1438" alt="image" src="https://github.com/user-attachments/assets/aea555d1-2af6-47dd-ba9f-fd8531c7e5e3" />
-<img width="2936" height="1438" alt="image" src="https://github.com/user-attachments/assets/2d36e018-8983-4e8a-a106-1d6de85d0eb8" />
-<img width="2940" height="1434" alt="image" src="https://github.com/user-attachments/assets/52323987-8f1d-442e-bb7a-67ae61402c7c" />
-<img width="2936" height="1440" alt="image" src="https://github.com/user-attachments/assets/22414477-b8b5-4a59-bd48-5cb979e095d1" />
-<img width="2540" height="1006" alt="image" src="https://github.com/user-attachments/assets/bc9f4dff-a83a-48ab-ac4a-7537e36ad0e6" />
-<img width="2880" height="1242" alt="image" src="https://github.com/user-attachments/assets/4984599c-63ee-43e7-ae4c-b1236bfdeb45" />
+An intelligent aquaculture monitoring solution that integrates **Computer Vision** for real-time shrimp disease detection (such as Black Gill Disease) with an **IoT hardware alarm and water quality monitoring system**.
 
-Jan 30, 2026
+---
 
-Designing Circuit on Tinkercad
+## 📅 Project Timeline & Development Log
 
-<img width="1258" height="782" alt="image" src="https://github.com/user-attachments/assets/07102d5a-a165-47be-818b-a63711d17a16" />
-<img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8" />
+### Jan 19, 2026 — Training AI Model to Detect Shrimps
+Initial dataset preparation and AI model training to detect shrimp health conditions.
 
-Jan 30, 2026
+![Training AI Model 1](https://github.com/user-attachments/assets/48533f62-bbbd-4da4-a4b2-aab479ca8fb2)
+![Training AI Model 2](https://github.com/user-attachments/assets/84a61ad0-3fd2-4707-99c2-852fc6703598)
+![Training AI Model 3](https://github.com/user-attachments/assets/94eb37a3-c8b7-4590-a6c4-d1bd69df62a7)
+![Training AI Model 4](https://github.com/user-attachments/assets/c44a8f0c-6782-49ba-82c7-0c3aa430b0e7)
+![Training AI Model 5](https://github.com/user-attachments/assets/aea555d1-2af6-47dd-ba9f-fd8531c7e5e3)
+![Training AI Model 6](https://github.com/user-attachments/assets/2d36e018-8983-4e8a-a106-1d6de85d0eb8)
+![Training AI Model 7](https://github.com/user-attachments/assets/52323987-8f1d-442e-bb7a-67ae61402c7c)
+![Training AI Model 8](https://github.com/user-attachments/assets/22414477-b8b5-4a59-bd48-5cb979e095d1)
+![Training AI Model 9](https://github.com/user-attachments/assets/bc9f4dff-a83a-48ab-ac4a-7537e36ad0e6)
+![Training AI Model 10](https://github.com/user-attachments/assets/4984599c-63ee-43e7-ae4c-b1236bfdeb45)
 
-Circuit Installation and Cabling
+---
 
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/f906f17f-53a6-4432-bf70-9372dfb0051d" />
+### Jan 30, 2026 — Hardware Design & Installation
 
-Feb 6, 2026
+#### Designing Circuit on Tinkercad
+![Tinkercad Design 1](https://github.com/user-attachments/assets/07102d5a-a165-47be-818b-a63711d17a16)
+![Tinkercad Design 2](https://github.com/user-attachments/assets/6a4043ec-df22-4323-a976-f2f500caeaf8)
 
-Finalise Circuit and Hardware
+#### Circuit Installation and Cabling
+![Circuit Installation](https://github.com/user-attachments/assets/f906f17f-53a6-4432-bf70-9372dfb0051d)
 
-<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/2273838e-f2cd-40de-96c4-41330439e8dd" />
-<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/ce91c40f-924a-4f9f-b81d-e928b5486042" />
+---
 
+### Feb 6, 2026 — Hardware Finalization
+Finalizing circuit schematics, wiring, and core hardware setup.
 
-Feb 7, 2026
+![Hardware 1](https://github.com/user-attachments/assets/2273838e-f2cd-40de-96c4-41330439e8dd)
+![Hardware 2](https://github.com/user-attachments/assets/ce91c40f-924a-4f9f-b81d-e928b5486042)
 
-Simulating the fire alarm system on Wokwi
+---
 
-<img width="3024" height="1552" alt="image" src="https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499" />
-<img width="3024" height="1560" alt="image" src="https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be" />
-<img width="3024" height="1564" alt="image" src="https://github.com/user-attachments/assets/a28ed059-8683-41a5-8529-d769e386d3a3" />
-<img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/1f72980e-750b-42a0-be5f-36d8aa984b7d" />
-<img width="3024" height="1556" alt="image" src="https://github.com/user-attachments/assets/ee1cb15d-a955-4406-813f-21732b9c1a7e" />
-<img width="3024" height="1558" alt="image" src="https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148" />
+### Feb 7, 2026 — Simulation & Model Optimization
 
-Feb 7, 2026
+#### Simulating the Fire & Alarm System on Wokwi
+![Wokwi Simulation 1](https://github.com/user-attachments/assets/5041f297-1244-40a0-a6f8-188963262499)
+![Wokwi Simulation 2](https://github.com/user-attachments/assets/e9c1f800-466e-4628-8fd3-4bf2319095be)
+![Wokwi Simulation 3](https://github.com/user-attachments/assets/a28ed059-8683-41a5-8529-d769e386d3a3)
+![Wokwi Simulation 4](https://github.com/user-attachments/assets/1f72980e-750b-42a0-be5f-36d8aa984b7d)
+![Wokwi Simulation 5](https://github.com/user-attachments/assets/ee1cb15d-a955-4406-813f-21732b9c1a7e)
+![Wokwi Simulation 6](https://github.com/user-attachments/assets/2ce76f9e-ce45-412e-8b61-9dd1d92b9148)
 
-Refining AI model detecting infected shrimps with team, using RTX Pro 6000 model
+#### Model Refinement (NVIDIA RTX Pro 6000 Workstation)
+Refining the instance segmentation and detection model for infected shrimp recognition.
 
-Metrics
+##### Evaluation Metrics
+* **Precision (Bounding Box):**  
+  ![precision B](https://github.com/user-attachments/assets/99491d2a-607b-4d1b-aaea-3d2dbf034c09)
+* **Recall (Bounding Box):**  
+  ![recall B](https://github.com/user-attachments/assets/4aebcbf8-feb7-4903-a567-512d31570ba3)
+* **mAP50 (Bounding Box):**  
+  ![mAP50 B](https://github.com/user-attachments/assets/9ccf01ff-3529-45bc-bf50-6be953587e2e)
+* **mAP50-95 (Bounding Box):**  
+  ![mAP50-95 B](https://github.com/user-attachments/assets/25b7cebf-f47a-4d82-bd16-d238d8d85bd8)
+* **Precision (Mask):**  
+  ![precision M](https://github.com/user-attachments/assets/09f94177-c088-4600-a7aa-95b5d8867518)
+* **Recall (Mask):**  
+  ![recall M](https://github.com/user-attachments/assets/ac344930-9cb6-4257-8161-c017250de5d3)
+* **mAP50 (Mask):**  
+  ![mAP50 M](https://github.com/user-attachments/assets/8e9b1072-ee8b-44d3-aaed-ec3d385f4579)
+* **mAP50-95 (Mask):**  
+  ![mAP50-95 M](https://github.com/user-attachments/assets/eddf9b1c-27a7-44b3-82a7-3b0cd52f696a)
 
-<img width="1430" height="1096" alt="precision(B)" src="https://github.com/user-attachments/assets/99491d2a-607b-4d1b-aaea-3d2dbf034c09" />
-<img width="1430" height="1096" alt="recall(B)" src="https://github.com/user-attachments/assets/4aebcbf8-feb7-4903-a567-512d31570ba3" />
-<img width="1430" height="1096" alt="mAP50(B)" src="https://github.com/user-attachments/assets/9ccf01ff-3529-45bc-bf50-6be953587e2e" />
-<img width="1430" height="1096" alt="mAP50-95(B)" src="https://github.com/user-attachments/assets/25b7cebf-f47a-4d82-bd16-d238d8d85bd8" />
-<img width="1430" height="1096" alt="precision(M)" src="https://github.com/user-attachments/assets/09f94177-c088-4600-a7aa-95b5d8867518" />
-<img width="1430" height="1096" alt="recall(M)" src="https://github.com/user-attachments/assets/ac344930-9cb6-4257-8161-c017250de5d3" />
-<img width="1430" height="1096" alt="mAP50(M)" src="https://github.com/user-attachments/assets/8e9b1072-ee8b-44d3-aaed-ec3d385f4579" />
-<img width="1430" height="1096" alt="mAP50-95(M)" src="https://github.com/user-attachments/assets/eddf9b1c-27a7-44b3-82a7-3b0cd52f696a" />
+##### Training Loss
+![box loss](https://github.com/user-attachments/assets/ea3dcb7c-5414-4535-8cf5-8ff70f6703e9)
+![seg loss](https://github.com/user-attachments/assets/102c57dc-f8e1-41cb-baa8-6ce23fde27b0)
+![cls loss](https://github.com/user-attachments/assets/01d4dea6-c7bf-4e76-9361-b79b6509d9e8)
+![dfl loss](https://github.com/user-attachments/assets/c97b49e1-96f5-46a5-a364-d5665eb3bbc5)
+![sem loss](https://github.com/user-attachments/assets/3c7c38b3-2ad8-40a6-8011-9e3607e2dcc3)
 
-Training Loss
+##### Validation Loss
+![box loss val](https://github.com/user-attachments/assets/b4ac4524-059e-48c2-8ee2-6f32b97f4b95)
+![seg loss val](https://github.com/user-attachments/assets/799b928b-121d-46cf-801f-53930a5fcb4e)
+![cls loss val](https://github.com/user-attachments/assets/01f53a4e-9ed6-44fd-939e-10d77d90d17e)
+![dfl loss val](https://github.com/user-attachments/assets/8e403cb1-7a36-40c6-b33b-72fc9e2af32b)
+![sem loss val](https://github.com/user-attachments/assets/afa1268b-55f2-41cb-b88c-35c8aeb256c0)
 
-<img width="1430" height="1096" alt="box_loss" src="https://github.com/user-attachments/assets/ea3dcb7c-5414-4535-8cf5-8ff70f6703e9" />
-<img width="1430" height="1096" alt="seg_loss" src="https://github.com/user-attachments/assets/102c57dc-f8e1-41cb-baa8-6ce23fde27b0" />
-<img width="1430" height="1096" alt="cls_loss" src="https://github.com/user-attachments/assets/01d4dea6-c7bf-4e76-9361-b79b6509d9e8" />
-<img width="1430" height="1096" alt="dfl_loss" src="https://github.com/user-attachments/assets/c97b49e1-96f5-46a5-a364-d5665eb3bbc5" />
-<img width="1430" height="1096" alt="sem_loss" src="https://github.com/user-attachments/assets/3c7c38b3-2ad8-40a6-8011-9e3607e2dcc3" />
+##### Learning Rate & Validation Plots
+![learning rate](https://github.com/user-attachments/assets/1ccf6168-5b90-498d-9563-04d035608579)
+![Confusion Matrix](https://github.com/user-attachments/assets/14ead750-2a16-4f1d-85e7-5ff062c7df12)
+![Precision-Recall Curve](https://github.com/user-attachments/assets/8fb91640-4c8a-4806-9084-85db393f251b)
+![F1-Confidence Curve](https://github.com/user-attachments/assets/cfe328de-1441-4fc6-96a4-195dee37b87f)
+![Precision-Confidence Curve](https://github.com/user-attachments/assets/d8fe5a8e-7ee8-4700-97c9-a7f13f5b6688)
+![Recall-Confidence Curve](https://github.com/user-attachments/assets/a765db7e-3986-47f1-bda2-f16edb3d72fd)
 
-Validation Loss
+##### Model Inference Outputs
+![Output 1](https://github.com/user-attachments/assets/273ce59b-a477-4713-aadc-ed6a4bd84c6a)
+![Output 2](https://github.com/user-attachments/assets/b8979a35-3deb-4b0b-9108-a10a45aa7cc6)
 
-<img width="1430" height="1096" alt="box_loss (1)" src="https://github.com/user-attachments/assets/b4ac4524-059e-48c2-8ee2-6f32b97f4b95" />
-<img width="1430" height="1096" alt="seg_loss (1)" src="https://github.com/user-attachments/assets/799b928b-121d-46cf-801f-53930a5fcb4e" />
-<img width="1430" height="1096" alt="cls_loss (1)" src="https://github.com/user-attachments/assets/01f53a4e-9ed6-44fd-939e-10d77d90d17e" />
-<img width="1430" height="1096" alt="dfl_loss (1)" src="https://github.com/user-attachments/assets/8e403cb1-7a36-40c6-b33b-72fc9e2af32b" />
-<img width="1430" height="1096" alt="sem_loss (1)" src="https://github.com/user-attachments/assets/afa1268b-55f2-41cb-b88c-35c8aeb256c0" />
+---
 
-Other
+### Feb 11, 2026 — Final Presentation & Research Poster
+Finalized poster and presentation for the IWISE 2026 Conference.
 
-<img width="1430" height="1096" alt="lr" src="https://github.com/user-attachments/assets/1ccf6168-5b90-498d-9563-04d035608579" />
+![IWISE 2026 Poster](https://github.com/user-attachments/assets/373f8501-45e1-4122-b699-ee4b42d20ed8)
 
-Validation Plots - Confusion Matrix
+---
 
-<img width="1426" height="1498" alt="image" src="https://github.com/user-attachments/assets/14ead750-2a16-4f1d-85e7-5ff062c7df12" />
+## 📂 Repository Structure
 
-Validation Curves
-<img width="1430" height="1096" alt="Precision-Recall Curve" src="https://github.com/user-attachments/assets/8fb91640-4c8a-4806-9084-85db393f251b" />
-<img width="1430" height="1096" alt="F1-Confidence Curve" src="https://github.com/user-attachments/assets/cfe328de-1441-4fc6-96a4-195dee37b87f" />
-<img width="1430" height="1096" alt="Precision-Confidence Curve" src="https://github.com/user-attachments/assets/d8fe5a8e-7ee8-4700-97c9-a7f13f5b6688" />
-<img width="1430" height="1096" alt="Recall-Confidence Curve" src="https://github.com/user-attachments/assets/a765db7e-3986-47f1-bda2-f16edb3d72fd" />
-
-Output
-
-<img width="1526" height="846" alt="image" src="https://github.com/user-attachments/assets/273ce59b-a477-4713-aadc-ed6a4bd84c6a" />
-<img width="1512" height="848" alt="image" src="https://github.com/user-attachments/assets/b8979a35-3deb-4b0b-9108-a10a45aa7cc6" />
-
-Feb 11, 2026
-
-Finalise Group Poster and Presentation
-
-<img width="4767" height="6740" alt="IWISE 2026" src="https://github.com/user-attachments/assets/373f8501-45e1-4122-b699-ee4b42d20ed8" />
-
-Model
-
-[<iframe src="https://platform.ultralytics.com/embed/system4-bkstar/datasets/shrimp" width="480" height="320" frameborder="0" style="border-radius:12px"></iframe>
-](https://platform.ultralytics.com/system4-bkstar/datasets/shrimp)
-
-
-[<iframe src="https://universe.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi" width="480" height="320" frameborder="0" style="border-radius:12px"></iframe>](https://universe.roboflow.com/minhquan-lxzlq/shrimp_area-3-ncroi)
+```text
+shrimp-detection/
+├── Shrimp Detection | Fire Alarm System/         # Embedded system & alarm code
+├── Water Quality Alarm System (OLED Display + L...)/ # OLED display module code
+├── Water Quality Alarm System (Piezo)/              # Piezo sounder alert code
+├── bom.csv                                          # Bill of Materials
+├── hub.ipynb                                        # Training notebook & experiments
+└── README.md                                        # Documentation
